@@ -11,7 +11,7 @@ body {
   grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
   grid-auto-rows: 50px;
   grid-gap: 5px
-  grid-area: footer-start / 1 / footer-end / 4
+  
 }
 
 .grid-item {
